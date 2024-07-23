@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.bg-primary {
+    background-color: #f0f0f0;
+}
+
+.bg-secondary {
+    background-color: #d0d0d0;
+}
+
+.bg-drawer {
+    background-color: #ffffff;
+}
+
+.bg-blurple {
+    background-color: #7289da;
+}
+
+.bg-blurple-active {
+    background-color: #5a73c9;
+}
+
+.text-sn {
+    font-size: 0.875rem;
+}
+
+.text-warning {
+    color: #ff0000;
+}
